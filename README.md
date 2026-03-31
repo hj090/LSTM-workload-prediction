@@ -24,6 +24,7 @@ NASA 웹 서버 로그 데이터를 기반으로 트래픽(요청 수)을 예측
 - NumPy / Pandas
 - TensorFlow / Keras
 - Matplotlib
+- Google Colab
 
 ---
 
