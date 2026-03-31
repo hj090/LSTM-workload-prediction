@@ -1,4 +1,4 @@
-# 🚀 LSTM Workload Prediction
+# 🚀 LSTM Workload Prediction: 시계열 기반 워크로드 예측 모델
 
 ## 📌 프로젝트 개요
 NASA 웹 서버 로그 데이터를 기반으로 트래픽(요청 수)을 예측하는 LSTM 기반 시계열 모델을 구현했습니다.  
